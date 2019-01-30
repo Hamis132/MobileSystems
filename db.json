@@ -1,31 +1,19 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Zrobić zakupy",
+      "description": "Kupić chleb i w ogole"
     },
     {
       "id": 2,
-      "title": "Post 2"
+       "name": "Umyć samochód",
+       "description": "Porządnie lewe lusterko"
     },
     {
       "id": 3,
-      "title": "Post 3"
+       "name": "Zdać systemy mobilne",
+       "description": "Spełnić najwieksze marzenie tego semestru"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
