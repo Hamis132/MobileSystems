@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Kupić Mleko",
+      "description: "Tylko 3.2%"
+    },
+    {
+      "name": "Kupić Zeszyt",
+      "description: "Tylko duzy"
+    },
+    {
+      "name": "Kupić Chleb",
+      "description: "Tylko razowy"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
